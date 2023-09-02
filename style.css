@@ -1,0 +1,67 @@
+body{
+    background-color: rgb(247, 252, 182);
+}
+
+header{
+    text-align: center;
+}
+
+h1{
+    color: black;
+    text-decoration: underline;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    background-color: black;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#Resumo{
+    color: black;
+    font-style: italic;
+}
+
+#ODS{
+    color: black;
+}
+
+#Habilidades{
+    color: black;
+}
+
+#Educação{
+    color: black;
+}
+
+#Hobbies{
+    color: black;
+}
+
+#Links{
+    color: black;
+}
+
+footer{
+    background-color: black;
+    text-align: center;
+}
+
+.CV{
+    color: white;
+}
+
+a:hover{
+    color: red;
+}
+
+a{
+    text-decoration: underline;
+    color: black;
+}
+
+dt{
+    text-decoration: underline overline;
+    font-weight: bold;
+}
